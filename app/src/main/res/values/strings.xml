@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SafeSpeak</string>
+    <string name="app_tagline">Privacy-first on-device moderation</string>
+
+    <!-- Splash -->
+    <string name="splash_subtitle">Real-time AI Content Moderator</string>
+
+    <!-- Chat -->
+    <string name="hint_message">Type a message…</string>
+    <string name="send">Send</string>
+    <string name="rephrase">Rephrase</string>
+    <string name="override">Send anyway</string>
+    <string name="warning_title">This message may be harmful</string>
+    <string name="warning_body">Our on-device moderator detected potentially toxic content. You can rephrase, or send it with a reason.</string>
+
+    <!-- Override -->
+    <string name="override_title">Send flagged message?</string>
+    <string name="override_body">Add an optional justification. This action is logged locally for audit.</string>
+    <string name="justification_hint">Why send this message? (optional)</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- History -->
+    <string name="history_title">Message history</string>
+    <string name="filter_all">All</string>
+    <string name="filter_safe">Safe</string>
+    <string name="filter_flagged">Flagged</string>
+    <string name="filter_overridden">Overridden</string>
+    <string name="empty_history">No messages yet. Start chatting.</string>
+
+    <!-- Accessibility -->
+    <string name="cd_send_button">Send button</string>
+    <string name="cd_warning_icon">Warning icon</string>
+    <string name="cd_score_bar">Toxicity score indicator</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ink_900">#0B0F14</color>
+    <color name="ink_800">#121821</color>
+    <color name="ink_700">#1C2531</color>
+    <color name="paper">#F6F4EE</color>
+    <color name="accent_safe">#1F8A57</color>
+    <color name="accent_warn">#D97706</color>
+    <color name="accent_toxic">#D6321F</color>
+    <color name="accent_primary">#E7F168</color>
+</resources>
